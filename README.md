@@ -1,8 +1,8 @@
 # Random-Password-Generator-with-Background-Changing-Feature
 
-[Click To View](https://audiophile-shop-for-blind-people.netlify.app/)
+[Click To View](https://random-password-generator-with-background-changing.netlify.app/)
 
-![Design preview for the Shortly URL shortening API coding challenge](./images/image.png)
+![Design preview for the Shortly URL shortening API coding challenge](./image.png)
 
 ## Welcome! 👋
 
